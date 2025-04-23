@@ -1,5 +1,5 @@
 # postgreSQL Basics📌
-Quick reference when it gets rusty.
+Quick reference for when it gets rusty.
 
 ## Basic Commands
 | SQL | Explaination |
