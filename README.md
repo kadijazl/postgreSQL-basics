@@ -22,7 +22,7 @@ Quick reference when it gets rusty.
 
 ## CRUD
 - INSERT INTO employees (name, age) VALUES ('Abu', 23);
-- SELECT location, AVG(salary) AS avg_salary FROM employees WHERE employment_year <= 2 GROUP BY location ;
+- SELECT * FROM employees;
 - UPDATE employees SET location = 'Johor' WHERE id = 4 ;
 - DELETE FROM employees WHERE id = 2 ;
 
